@@ -15,7 +15,7 @@ Full Name | GitHub Link
 Xiao Jianlin | https://github.com/xiaojianlin
 Wang Yao | https://github.com/wangyao11
 Ran Yang | https://github.com/ranyang525
-Du Yin | https://github.com/Dale-
+Du Ying | https://github.com/Dale-
 Yan Hao | https://github.com/yh15248004
 Gao Fanfan | https://github.com/gaofanfan
 Kong Lingyuan | https://github.com/konglingyuan
